@@ -1,2 +1,2 @@
 # Data-Science
-Activities in the Data Science Pipeline
+This Repo presents some of the Activities in the Data Science Pipeline using Python
