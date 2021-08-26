@@ -1,2 +1,2 @@
-# Data-Science
-This Repo presents some of the Activities in the Data Science Pipeline using Python
+# Data-Analysis
+This Repo presents some of the Activities in Data Analysis using Python, from Basic to Advanced.
